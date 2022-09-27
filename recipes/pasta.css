@@ -1,0 +1,23 @@
+body {
+    background-image: url('img/menu.jpg');
+    margin: auto;
+}
+
+p {
+    font-size: 25px;
+    color: black;
+    font-weight: 500;
+}
+
+.list {
+    font-size: 20px;
+
+}
+
+.heading {
+        font-size: 25px;
+        font-weight: 800;
+        background-color: yellow;
+        width: 120px;
+        
+}
